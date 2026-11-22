@@ -65,3 +65,4 @@ class AlquilerEquipos(Servicio):
         )
 
         return informacion
+#holi
